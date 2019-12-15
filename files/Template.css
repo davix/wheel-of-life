@@ -29,6 +29,11 @@ p {
 	font-family: Verdana, Arial, Helvetica, sans-serif, "宋体";
 }
 
+img {
+	max-width:100%;
+	height:auto;
+}
+
 h4 {
 	text-indent:5px;
 }
